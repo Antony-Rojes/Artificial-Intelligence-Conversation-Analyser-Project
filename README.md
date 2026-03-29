@@ -204,4 +204,4 @@ This is an AI-driven platform that transforms conversations between Sales Person
 ## Author
 
 Antony Rojes M
-B.Tech Computer Science and Engineering
+BE Computer Science and Engineering
